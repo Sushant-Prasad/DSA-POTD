@@ -1,0 +1,350 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Queue1",
+            "request": "launch",
+            "mainClass": "Queue1",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack10",
+            "request": "launch",
+            "mainClass": "Stack10",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack9",
+            "request": "launch",
+            "mainClass": "Stack9",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack8",
+            "request": "launch",
+            "mainClass": "Stack8",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack7",
+            "request": "launch",
+            "mainClass": "Stack7",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack6",
+            "request": "launch",
+            "mainClass": "Stack6",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack5",
+            "request": "launch",
+            "mainClass": "Stack5",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack4",
+            "request": "launch",
+            "mainClass": "Stack4",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack3",
+            "request": "launch",
+            "mainClass": "Stack3",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "Stack2",
+            "request": "launch",
+            "mainClass": "Stack2",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "StackC",
+            "request": "launch",
+            "mainClass": "StackC",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortLL",
+            "request": "launch",
+            "mainClass": "MergeSortLL",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "AL4",
+            "request": "launch",
+            "mainClass": "AL4",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "AL3",
+            "request": "launch",
+            "mainClass": "AL3",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "AL2",
+            "request": "launch",
+            "mainClass": "AL2",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
+            "name": "AL",
+            "request": "launch",
+            "mainClass": "ArrayList.AL",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "array3",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Selection_sort",
+            "request": "launch",
+            "mainClass": "sorting.Selection_sort",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "array14",
+            "request": "launch",
+            "mainClass": "array14",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Selection_sort",
+            "request": "launch",
+            "mainClass": "Selection_sort",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Count_Smaller_elements",
+            "request": "launch",
+            "mainClass": "Count_Smaller_elements",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Longest_alternating_subsequence",
+            "request": "launch",
+            "mainClass": "POTD.Longest_alternating_subsequence",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Remaining_String",
+            "request": "launch",
+            "mainClass": "Remaining_String",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Longest_alternating_subsequence",
+            "request": "launch",
+            "mainClass": "Longest_alternating_subsequence",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "smallest_number",
+            "request": "launch",
+            "mainClass": "GFGPOTD.smallest_number",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "find_permutations",
+            "request": "launch",
+            "mainClass": "backtracking.find_permutations",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "find_Subset",
+            "request": "launch",
+            "mainClass": "backtracking.find_Subset",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList3",
+            "request": "launch",
+            "mainClass": "LinkedList3",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion11",
+            "request": "launch",
+            "mainClass": "recursion11",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursiom11",
+            "request": "launch",
+            "mainClass": "recursiom11",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion10",
+            "request": "launch",
+            "mainClass": "recursion10",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion9",
+            "request": "launch",
+            "mainClass": "recursion9",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion8",
+            "request": "launch",
+            "mainClass": "recursion8",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion7",
+            "request": "launch",
+            "mainClass": "recursion7",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion6",
+            "request": "launch",
+            "mainClass": "recursion6",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion5",
+            "request": "launch",
+            "mainClass": "recursion5",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion4",
+            "request": "launch",
+            "mainClass": "recursion4",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion3",
+            "request": "launch",
+            "mainClass": "recursion3",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion2",
+            "request": "launch",
+            "mainClass": "recursion2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "bit2",
+            "request": "launch",
+            "mainClass": "bit2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "matrix2",
+            "request": "launch",
+            "mainClass": "matrix2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "array3",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "Firstclass",
+            "request": "launch",
+            "mainClass": "Firstclass",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
