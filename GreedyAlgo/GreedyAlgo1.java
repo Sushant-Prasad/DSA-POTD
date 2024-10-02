@@ -1,4 +1,5 @@
 //Activity selection
+//TC:- O(n)
 
 package GreedyAlgo;
 
@@ -22,13 +23,15 @@ public class GreedyAlgo1 {
         }
     }
     System.out.println("Maximum task : "+count);
-    System.out.print("index of task : "+ans + " ");
+    for (int i = 0; i <ans.size(); i++) {
+    System.out.print("A"+ans.get(i) + " ");
+    }
 
   }
 
   public static void main(String[] args) {
     int start[] = { 1, 3, 0, 5, 8, 5 };
-    int end[] = { 2, 4, 6, 7, 9, 9 };
+    int end[] = { 2, 4, 6, 7, 9, 9 }; // already sorted
     activitySelection(start, end);
 
   }
