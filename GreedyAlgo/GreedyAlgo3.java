@@ -1,5 +1,5 @@
 //Fractional knapsack
-//TC:- O(n)
+//TC:- O(nlogn)
 package GreedyAlgo;
 
 import java.util.*;
