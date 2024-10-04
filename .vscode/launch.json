@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GreedyAlgo8",
+            "request": "launch",
+            "mainClass": "GreedyAlgo.GreedyAlgo8",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
             "name": "GreedyAlgo7",
             "request": "launch",
             "mainClass": "GreedyAlgo.GreedyAlgo7",
