@@ -218,7 +218,7 @@ public class linkedlist {
 
     }
     public void reverse(){
-        Node prev=null;
+        Node prev =null;
         Node curr= head;
         Node nextNode;
         while(curr!=null){
