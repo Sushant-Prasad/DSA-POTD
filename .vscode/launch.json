@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array11",
+            "request": "launch",
+            "mainClass": "Arrays.array11",
+            "projectName": "javatutorial_94820b21"
+        },
+        {
+            "type": "java",
             "name": "BT2",
             "request": "launch",
             "mainClass": "BinaryTree.BT2",
